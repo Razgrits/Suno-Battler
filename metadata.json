@@ -1,0 +1,5 @@
+{
+  "name": "Suno Song Battler",
+  "description": "Generate RPG monsters from Suno song links and watch them battle to the death with dynamic music switching.",
+  "requestFramePermissions": []
+}
